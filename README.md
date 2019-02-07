@@ -6,5 +6,5 @@ Python爬取某珠宝网站图片，介绍
 需要爬取的页面：https://www.dior.cn/zh_cn/products/search?page=3&amp;query=珠宝
 
 没有webdriver的可以在这下载
-https://pan.baidu.com/s/16-F-Eb6RU0-vRnAZCZv7kA">https://pan.baidu.com/s/16-F-Eb6RU0-vRnAZCZv7kA
+https://pan.baidu.com/s/16-F-Eb6RU0-vRnAZCZv7kA
 提取码：gf15
